@@ -16,7 +16,8 @@
 </div>
 
 ##
-![Top Langs](&theme=transparent&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroo19&theme=transparent&layout=compact)
+
 
 
 <div> 
