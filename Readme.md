@@ -1,4 +1,6 @@
-### Seja bem-vindo ao meu perfil!!!
+<h1 align="center"> Seja bem-vindo ao meu perfil!!!</h1>
+<h3 align="center">Apenas um amante da tecnologia</h3>
+<br> 
 
 - 🤖 Desenvolvedor Full-Stack
 - 💻 Estudando Javascriipt e Typescript
