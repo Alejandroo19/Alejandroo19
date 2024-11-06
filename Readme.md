@@ -19,7 +19,7 @@
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroo19&theme=transparent&layout=compact)
-
+<p><imagem alinhar="centro" fonte="https://github-readme-streak-stats.herokuapp.com/?user=Alejandroo19&" alt="Alejandroo19"/></p>
 
 
 <div> 
