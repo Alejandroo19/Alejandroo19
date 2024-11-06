@@ -16,12 +16,10 @@
 
           
 </div>
-
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroo19&theme=transparent&layout=compact)
-<p><imagem alinhar="centro" fonte="https://github-readme-streak-stats.herokuapp.com/?user=Alejandroo19&" alt="Alejandroo19"/></p>
-
-
+ <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alejandroo19&show_icons=true&hide_border=true&theme=dark" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroo19&layout=compact&hide=GDscript,c%2B%2B,C,HTML,CSS&hide_border=true&theme=dark" />
+</div>
 <div> 
    <a href = "mailto:alealejandrolidio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alejandro-souza-030204e8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
