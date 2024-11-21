@@ -3,7 +3,7 @@
 <br> 
 
 - 🤖 Desenvolvedor Full-Stack
-- 💻 Estudando Javascriipt e Typescript
+- 💻 Estudando Javascriipt, Typescript e Django
 - 🖋️ E-mail para contato: alealejandrolidio@gmail.com
   
 
